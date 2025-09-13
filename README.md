@@ -14,14 +14,9 @@ This project is a graphical password manager that allows you to generate, save, 
 ## Requirements
 - Python 3.x
 - tkinter (standard with Python)
-- pyperclip
 
 ## Setup
-1. Install the required package:
-   ```bash
-   pip install pyperclip
-   ```
-2. Ensure `logo.png` is in the project directory for the app logo.
+1. Ensure `logo.png` is in the project directory for the app logo.
 
 ## Files
 - `main.py`: Main application logic and UI.
@@ -35,4 +30,5 @@ python main.py
 - Use the interface to generate, save, and search for passwords.
 
 ## License
+
 This project is for educational purposes. 
