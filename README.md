@@ -3,7 +3,7 @@
 A simple password manager app built with Python and Tkinter.
 
 ## Description
-This project is a graphical password manager that allows you to generate, save, and search for passwords securely. Passwords are stored locally in a JSON file, and you can easily copy generated passwords to your clipboard.
+This project is a graphical password manager that allows you to generate, save, and search for passwords securely. Passwords are stored locally in a JSON file
 
 ## Features
 - Generate strong, random passwords.
@@ -32,3 +32,4 @@ python main.py
 ## License
 
 This project is for educational purposes. 
+
